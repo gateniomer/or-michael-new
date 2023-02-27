@@ -6,7 +6,6 @@ import AdBoard from "@/components/AdBoard";
 const inter = Inter({ subsets: ["latin"] });
 
 export default async function Home() {
-  console.log(data);
   return (
     <main>
       <AdBoard />

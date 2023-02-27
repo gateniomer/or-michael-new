@@ -33,7 +33,7 @@ const Header = () => {
     <>
       <header className="flex justify-between place-items-center flex-row-reverse px-5 py-2 sticky top-0 left-0 bg-white/50 backdrop-blur-xl z-10 shadow-sm">
         <Link href="/">
-          <Image src="next.svg" width="150" height="60" alt="Logo" />
+          <Image src="/assets/nav.png" width="150" height="60" alt="Logo" />
         </Link>
         <FiMenu
           className="md:hidden h-8 w-8 cursor-pointer"
